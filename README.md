@@ -16,3 +16,6 @@ Session-2:	14:00 to 15:30 (1.5 hr)
 
 Instructions
 1. Please download the Dataset folder and Notes.pdf before the start of the session.
+
+Resources:
+1. https://www.thetableaustudentguide.com/spotlight/how-to-your-guide-to-the-guidebook
